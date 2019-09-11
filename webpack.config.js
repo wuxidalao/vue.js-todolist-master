@@ -39,7 +39,7 @@ const config = {
               outputPath: 'assets/img/'
             }
           }
-          ]
+        ]
       }
     ]
   },
